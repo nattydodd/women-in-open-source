@@ -53,6 +53,17 @@ const list = [
     location: "Colorado, USA",
     additionalText:
       "Founder and CEO of Lunchbox Electronics, a company that creates innovative new products with Imagination and the passion for open source hardware. She conducted a successful Kickstarter called Build Upons for light up LEGO-compatible bricks."
+  },
+  {
+    name: "Soraya Dahdouh",
+    avatarUrl: "https://avatars2.githubusercontent.com/u/41369738?s=400&v=4",
+    twitterUrl: "",
+    githubUrl: "https://github.com/sdahdouh",
+    topics: "Angular, Java, Sushi",
+    company: "cofinpro.de",
+    location: "Frankfurt, Germany",
+    additionalText:
+    "23 year old coding padawan."
   }
 ];
 
