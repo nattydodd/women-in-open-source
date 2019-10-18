@@ -55,16 +55,23 @@ const list = [
       "Founder and CEO of Lunchbox Electronics, a company that creates innovative new products with Imagination and the passion for open source hardware. She conducted a successful Kickstarter called Build Upons for light up LEGO-compatible bricks."
   },
   {
-    name: "Soraya Dahdouh",
-    avatarUrl: "https://avatars2.githubusercontent.com/u/41369738?s=400&v=4",
-    twitterUrl: "",
-    githubUrl: "https://github.com/sdahdouh",
-    topics: "Angular, Java",
-    company: "cofinpro.de",
-    location: "Frankfurt, Germany",
-    additionalText:
-    "23 year old coding padawan."
-  }
+    name: "Suz Hinton",
+    avatarUrl: "https://miro.medium.com/max/3150/1*FydmiVPSjGgJr9_AtRN_Ig.jpeg",
+    twitterUrl: "https://twitter.com/noopkat",
+    githubUrl: "https://github.com/noopkat",
+    topics: "Open Source, IOT, Javascript and Barry the Sloth",
+  },
+    {
+        name: "Soraya Dahdouh",
+        avatarUrl: "https://avatars2.githubusercontent.com/u/41369738?s=400&v=4",
+        twitterUrl: "",
+        githubUrl: "https://github.com/sdahdouh",
+        topics: "Angular, Java",
+        company: "cofinpro.de",
+        location: "Frankfurt, Germany",
+        additionalText:
+            "23 year old coding padawan."
+    }
 ];
 
 (function() {
