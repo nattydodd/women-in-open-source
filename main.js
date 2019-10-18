@@ -59,7 +59,7 @@ const list = [
     avatarUrl: "https://avatars2.githubusercontent.com/u/41369738?s=400&v=4",
     twitterUrl: "",
     githubUrl: "https://github.com/sdahdouh",
-    topics: "Angular, Java, Sushi",
+    topics: "Angular, Java",
     company: "cofinpro.de",
     location: "Frankfurt, Germany",
     additionalText:
